@@ -202,3 +202,5 @@ I am Spimy, but my Discord is under a different name most of the time.
 ## Support Server
 
 [![Support Server](https://discordapp.com/api/guilds/422469294786347016/widget.png?style=banner2)](https://discord.gg/865tNC4)
+
+[![Run on Repl.it](https://repl.it/badge/github/Spimy/muse-cli)](https://repl.it/github/Spimy/muse-cli)
